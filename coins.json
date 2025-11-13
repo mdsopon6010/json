@@ -1,0 +1,8 @@
+[
+  { "id": "c0", "coin": 105, "price": 0.98, "plus": 5, "thr": 1.02 },
+  { "id": "c1", "coin": 168, "price": 1.23, "hot": true },
+  { "id": "c2", "coin": 215, "price": 1.55 },
+  { "id": "c3", "coin": 315, "price": 1.98 },
+  { "id": "c4", "coin": 400, "price": 2.51 },
+  { "id": "c5", "coin": 500, "price": 3.01, "thr": 3.12 }
+]

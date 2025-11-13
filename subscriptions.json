@@ -1,0 +1,73 @@
+{
+  "active": "months",
+  "index": 1,
+  "all": ["days", "months", "years"],
+  "days": [
+    {
+      "id": "d0",
+      "price": 123,
+      "avlPrice": 99,
+      "name": "month",
+      "headerText": "7 Day",
+      "headerStyle": "bg-green-500",
+      "vaildText": "Active 7 Day",
+      "title": "Subscribe for 7 Day"
+    },
+    {
+      "id": "d1",
+      "price": 343,
+      "name": "month",
+      "headerText": "20 Day",
+      "headerStyle": "bg-red-500",
+      "vaildText": "Active 20 Day",
+      "title": "Subscribe for 20 Day"
+    }
+  ],
+  "months": [
+    {
+      "id": "m0",
+      "price": 545,
+      "avlPrice": 503,
+      "name": "month",
+      "headerText": "1 Month",
+      "vaildText": "Per month",
+      "title": "Subscribe for 1 Month"
+    },
+    {
+      "id": "m1",
+      "price": 644,
+      "name": "month",
+      "headerText": "3 Month",
+      "vaildText": "Active 3 month",
+      "title": "Subscribe for 3 Month"
+    },
+    {
+      "id": "m2",
+      "price": 755,
+      "name": "month",
+      "headerText": "6 Month",
+      "vaildText": "Active 6 month",
+      "title": "Subscribe for 6 Month"
+    }
+  ],
+  "years": [
+    {
+      "id": "y0",
+      "price": 866,
+      "name": "year",
+      "headerText": "1 Year",
+      "headerStyle": "bg-red-500",
+      "vaildText": "Per year",
+      "title": "Subscribe for 1 Year"
+    },
+    {
+      "id": "y1",
+      "price": 977,
+      "name": "year",
+      "headerText": "2 Year",
+      "headerStyle": "bg-red-500",
+      "vaildText": "Active 2 Year",
+      "title": "Subscribe for 2 Year"
+    }
+  ]
+}
