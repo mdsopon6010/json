@@ -5,9 +5,10 @@
   "days": [
     {
       "id": "d0",
+      "day": 7,
       "price": 123,
       "avlPrice": 99,
-      "name": "month",
+      "name": "day",
       "headerText": "7 Day",
       "headerStyle": "bg-green-500",
       "vaildText": "Active 7 Day",
@@ -15,8 +16,9 @@
     },
     {
       "id": "d1",
+      "day": 20,
       "price": 343,
-      "name": "month",
+      "name": "day",
       "headerText": "20 Day",
       "headerStyle": "bg-red-500",
       "vaildText": "Active 20 Day",
@@ -26,6 +28,7 @@
   "months": [
     {
       "id": "m0",
+      "day": 30,
       "price": 545,
       "avlPrice": 503,
       "name": "month",
@@ -35,6 +38,7 @@
     },
     {
       "id": "m1",
+      "day": 90,
       "price": 644,
       "name": "month",
       "headerText": "3 Month",
@@ -43,6 +47,7 @@
     },
     {
       "id": "m2",
+      "day": 180,
       "price": 755,
       "name": "month",
       "headerText": "6 Month",
@@ -53,6 +58,7 @@
   "years": [
     {
       "id": "y0",
+      "day": 365,
       "price": 866,
       "name": "year",
       "headerText": "1 Year",
@@ -62,6 +68,7 @@
     },
     {
       "id": "y1",
+      "day": 730,
       "price": 977,
       "name": "year",
       "headerText": "2 Year",
@@ -71,3 +78,4 @@
     }
   ]
 }
+
