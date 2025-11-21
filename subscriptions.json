@@ -1,27 +1,24 @@
 {
-  "active": "months",
-  "index": 1,
-  "all": ["days", "months", "years"],
   "days": [
     {
       "id": "d0",
       "day": 7,
       "price": 123,
       "avlPrice": 99,
-      "name": "day",
-      "headerText": "7 Day",
-      "headerStyle": "bg-green-500",
-      "vaildText": "Active 7 Day",
+      "type": "day",
+      "valid": "7 Day",
+      "style": "bg-green-500",
+      "text": "Active 7 Day",
       "title": "Subscribe for 7 Day"
     },
     {
       "id": "d1",
       "day": 20,
       "price": 343,
-      "name": "day",
-      "headerText": "20 Day",
-      "headerStyle": "bg-red-500",
-      "vaildText": "Active 20 Day",
+      "type": "day",
+      "valid": "20 Day",
+      "style": "bg-red-500",
+      "text": "Active 20 Day",
       "title": "Subscribe for 20 Day"
     }
   ],
@@ -31,27 +28,27 @@
       "day": 30,
       "price": 545,
       "avlPrice": 503,
-      "name": "month",
-      "headerText": "1 Month",
-      "vaildText": "Per month",
+      "type": "month",
+      "valid": "1 Month",
+      "text": "Per month",
       "title": "Subscribe for 1 Month"
     },
     {
       "id": "m1",
       "day": 90,
       "price": 644,
-      "name": "month",
-      "headerText": "3 Month",
-      "vaildText": "Active 3 month",
+      "type": "month",
+      "valid": "3 Month",
+      "text": "Active 3 month",
       "title": "Subscribe for 3 Month"
     },
     {
       "id": "m2",
       "day": 180,
       "price": 755,
-      "name": "month",
-      "headerText": "6 Month",
-      "vaildText": "Active 6 month",
+      "type": "month",
+      "valid": "6 Month",
+      "text": "Active 6 month",
       "title": "Subscribe for 6 Month"
     }
   ],
@@ -60,22 +57,23 @@
       "id": "y0",
       "day": 365,
       "price": 866,
-      "name": "year",
-      "headerText": "1 Year",
-      "headerStyle": "bg-red-500",
-      "vaildText": "Per year",
+      "type": "year",
+      "valid": "1 Year",
+      "style": "bg-red-500",
+      "text": "Per year",
       "title": "Subscribe for 1 Year"
     },
     {
       "id": "y1",
       "day": 730,
       "price": 977,
-      "name": "year",
-      "headerText": "2 Year",
-      "headerStyle": "bg-red-500",
-      "vaildText": "Active 2 Year",
+      "type": "year",
+      "valid": "2 Year",
+      "style": "bg-red-500",
+      "text": "Active 2 Year",
       "title": "Subscribe for 2 Year"
     }
   ]
 }
+
 
